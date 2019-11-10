@@ -1,2 +1,2 @@
 # Coin-Detector
-Draw vertical lines for the coins that fall under the same straight line using OpenCV. 
+First detected the coins then drew vertical lines for the coins that fall under the same straight line using OpenCV. 
